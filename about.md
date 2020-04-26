@@ -1,17 +1,27 @@
 ---
 layout: post
-title: About
+title: Sobre
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Esse é um diário pessoal dos meus experimentos na cozinha.
+Ele serve tres motivos:
+1) como livro de receitas caseiras, para eu lembrar como eu fiz alguma coisa no passado
+2) para poder facilmente compartilhar receitas
+3) eu aprendendo melhor escrever português (que não é o meu idioma maternal)
+Eu cozinho como hobby então eu uso como base o trabalho de muitos profissionais
+que se dedicam a uma cozinha boa e artesanal
+e sempre vou indicar onde eu achei a receita original se eu uso o trabalho de outros como inspiração.
+
+Eu escolhi o nome do blog, porque o reino das plantas tem
+[uma diversidade gigante de metabólitos](https://www.sciencedirect.com/science/article/abs/pii/S1360138518302115).
+Essa diversidade resulta numa gama imensa de sabores e aromas que podemos usar na cozinha
+– e é isso que me da prazer de explorar cozinhando.
+Então a maioria das receitas vão ser vegetarianas, enquanto não exlusivamente.
+
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Mercado" src="assets/images/mercado.JPG" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Mercado em Santiago de Chile, 2009 – <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a> license.
   </figcaption>
 </figure>
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
