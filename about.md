@@ -25,3 +25,11 @@ Então a maioria das receitas vão ser vegetarianas, enquanto não exlusivamente
     Mercado em Santiago de Chile, 2009 – <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a> license.
   </figcaption>
 </figure>
+
+
+Quando eu estou cozinhando eu tento de otimizar sobre tudo o aroma da comida
+– comer saudével é certamente importante no dia a dia, mas não é nesse blog.
+Aroma se acha particularmente em produtos orgânicos que muitas vezes precisam
+de uma cadeia de suprimentos mais curtos,
+então os produtos são mais frescos e isso é um dos indicadores mais importante para o aroma.
+Um outro 
