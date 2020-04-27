@@ -23,6 +23,6 @@ Então a maioria das receitas vão ser vegetarianas, mas não exclusivamente.
 <figure>
   <img alt="Mercado" src="assets/images/mercado.JPG" />
   <figcaption>
-    Mercado em Santiago de Chile, 2009 – license: <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a>.
+    Mercado em Santiago de Chile, 2009 – Licença: <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a>.
   </figcaption>
 </figure>
