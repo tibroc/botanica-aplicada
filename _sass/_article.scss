@@ -24,6 +24,8 @@
   text-align: justify;
   text-indent: 1.5em;
   text-justify: inter-word;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .post p:first-of-type,
@@ -48,6 +50,17 @@
 
 .post-content:first-child {
   margin-top: 4em;
+}
+
+.post table{
+  width: 100%;
+  text-align: justify;
+}
+
+.post th{
+  font-weight: bold;
+  font-style: italic;
+  border-bottom: 1px solid $title-color;
 }
 
 .post-meta {

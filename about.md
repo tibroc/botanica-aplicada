@@ -6,9 +6,9 @@ title: Sobre
 Aqui é um diário pessoal sobre os meus experimentos na cozinha.
 Ele existe por três motivos:
 
-**1)** como livro de receitas caseiras para me lembrar como fiz alguma coisa no passado;
-**2)** para poder facilmente compartilhar receitas;
-**3)** para eu aprender melhor escrever em português (que não é o meu idioma materno).
+* como livro de receitas caseiras para me lembrar como fiz alguma coisa no passado;
+* para poder facilmente compartilhar receitas;
+* para eu aprender melhor escrever em português (que não é o meu idioma materno).
 
 Eu cozinho como hobby, então eu uso como base o trabalho de muitos profissionais
 que se dedicam à uma cozinha boa e artesanal.
