@@ -17,8 +17,8 @@ title: Botânica Aplicada
 email: nada@nada.nada
 description: >- # this means to ignore newlines until "baseurl:"
   Experimentos culinários na diversidade vegetal.
-baseurl: "/botanica-aplicada" # the subpath of your site, e.g. /blog
-url: "https://tibroc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://receitas.nogueira-brockmeyer.org" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username:  tibroc
 
