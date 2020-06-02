@@ -70,7 +70,7 @@ Misture tudo e deixe descansar de uma a duas horas.
 Misture tudo durante cinco minutos e depois bata mais uns cinco minutos.
 Deixe fermentar durante três horas, forme o pão e deixe
 descansar de oito a doze horas à 5 °C.
-Asar com 250 °C caindo para 210 °C com vapor.
+Assar à 250 °C deixando a temperatura cair para 210 °C com vapor.
 
 <figure>
   <img alt="Pain de Campagne" src="/assets/images/pain_de_campagne.png" />
