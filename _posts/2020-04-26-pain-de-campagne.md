@@ -21,7 +21,7 @@ Um tipico pão francês rústico com 80% de trigo e 20% de centeio.
   </tr>
   <tr>
     <td style="width:20%">60 g</td>
-    <td>Agua</td>
+    <td>água</td>
   </tr>
 </table>
 
