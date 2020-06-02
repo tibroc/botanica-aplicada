@@ -47,7 +47,7 @@ Dependeno das temperaturas dos ingredientes a temperatura da massa final deve fi
   </tr>
 </table>
 
-Misturar tudo e deixar descansar de uma a duas horas.
+Misture tudo e deixe descansar de uma a duas horas.
 
 <table>
   <tr>
