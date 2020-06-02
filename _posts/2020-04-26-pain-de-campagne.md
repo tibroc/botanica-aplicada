@@ -25,7 +25,7 @@ Um tipico pão francês rústico com 80% de trigo e 20% de centeio.
   </tr>
 </table>
 
-Misturar tudo e deixar a fermentar para 1,5-2 horas.
+Misture tudo e deixe a fermentar de 1,5-2 horas.
 Dependeno das temperaturas dos ingredientes a temperatura da massa final deve ficar entre
 27-29 °C.
 
