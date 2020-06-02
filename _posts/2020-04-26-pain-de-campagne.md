@@ -67,7 +67,7 @@ Misture tudo e deixe descansar de uma a duas horas.
   </tr>
 </table>
 
-Misturar tudo durante cinco minutos e bater mais uns cinco minutos.
+Misture tudo durante cinco minutos e depois bata mais uns cinco minutos.
 Deixar fermentar durante três horas, formar o pão e pôr pra
 descansar de oito a doze horas com 5 °C.
 Asar com 250 °C caindo para 210 °C com vapor.
