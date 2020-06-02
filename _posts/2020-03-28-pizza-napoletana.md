@@ -7,7 +7,7 @@ categories: pão
 
 Essa receita para massa de pizza se desenvolveu para se ter uma receita sem fermento industrial.
 Então se usa uma pré-massa de água de fermento natural.
-A receita troca a típica farinha 'Tipo 00' para uma farinha geralmente mais usado para fazer Ciabatta.
+A receita troca a típica farinha de trigo 'Tipo 00' para uma geralmente mais usada para fazer Ciabatta.
 Rende três Pizzas.
 
 <table>
