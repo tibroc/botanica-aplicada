@@ -32,7 +32,7 @@ Misture e deixe fermentar durante 2-3 horas até que a massa dobre de volume.
   </tr>
   <tr>
     <td style="width:20%"></td>
-    <td>Pre-massa</td>
+    <td>Pré-massa</td>
   </tr>
   <tr>
     <td style="width:20%">315 g</td>
