@@ -55,5 +55,5 @@ Misture e deixe fermentar durante 2-3 horas até que a massa dobre de volume.
 Deixe fermentar de três a quatro horas,
 depois forme três bolas e deixe descansar para mais uma hora antes de formar a pizza.
 
-A receita original para a pizza napolitana se acha na página da
+A receita original para a pizza napolitana se encontra na página da
 [Associazione Verace Pizza Napoletana (AVPN)](https://www.pizzanapoletana.org/images/file/Disciplinare_avpn.pdf).
