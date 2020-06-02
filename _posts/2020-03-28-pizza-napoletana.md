@@ -24,7 +24,7 @@ Rende três Pizzas.
   </tr>
 </table>
 
-Misturar e deixar fermentar durante 2-3 horas, até a massa dobra em volumen.
+Misture e deixe fermentar durante 2-3 horas até que a massa dobre de volume.
 
 <table>
   <tr>
