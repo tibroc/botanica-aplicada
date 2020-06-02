@@ -39,7 +39,7 @@ Dependeno das temperaturas dos ingredientes a temperatura da massa final deve fi
   </tr>
   <tr>
     <td style="width:20%">200 g</td>
-    <td>Farinha integral de centêio</td>
+    <td>Farinha integral de centeio</td>
   </tr>
   <tr>
     <td style="width:20%">600 g</td>
